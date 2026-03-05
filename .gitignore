@@ -31,3 +31,6 @@ report.[0-9]_.[0-9]_.[0-9]_.[0-9]_.json
 
 # database.sqlite
 database.sqlite
+
+# jujur lupa ubah ini jadi yaudah dihapus lagi
+.env copy
